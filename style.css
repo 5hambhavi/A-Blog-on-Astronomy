@@ -1,0 +1,21 @@
+.exoplanets_names_div{
+    text-align: left;
+}
+body{
+    text-align: left;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-size: 18px;
+}
+div{
+    margin-left: 100 px;
+}
+img{
+    height: 350px;
+    width: 500px;
+}
